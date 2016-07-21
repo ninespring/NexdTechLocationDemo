@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  UIViewController+PositionTestView.h
 //  Demo.NexdTechLocationDemo
 //
 //  Created by Ninespring on 16/7/21.
@@ -8,11 +8,7 @@
 
 #import <UIKit/UIKit.h>
 #import "LocationEngine.h"
-
-@interface ViewController : UIViewController
-
-
-
+@interface PositionTestView:UIViewController
+@property (strong, nonatomic) IBOutlet UITextView *resultOutput;
 
 @end
-
