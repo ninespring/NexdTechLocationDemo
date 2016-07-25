@@ -1,0 +1,72 @@
+{
+  "DVTSourceControlWorkspaceBlueprintPrimaryRemoteRepositoryKey" : "4B4D6DA05FEE65BB067D679953056E26A89F9564+++0784B13",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyRepositoryLocationsKey" : {
+
+  },
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyStatesKey" : {
+    "5E292F168E7E5C466950F2C4F5370D687BD4889C+++ACF8D8C" : 0,
+    "5E292F168E7E5C466950F2C4F5370D687BD4889C+++E2B0AB8" : 0,
+    "4B4D6DA05FEE65BB067D679953056E26A89F9564+++0784B13" : 0,
+    "04EAE67CCE7A572FBB94839CED5CE95F43E39A80+++EB87E35" : 0,
+    "AF609D4882F4C06E0BFB896DF19AA639FB2A1A6A+++A766E32" : 0,
+    "6FB02A929DDDA3A04E57E97BC82B522FBEBEE47A+++58E924A" : 0,
+    "7FB3BE83DB66FD293E223C455E5D815B1E9FBC75+++2935032" : 0,
+    "48213FEC8FD556F9E11EAE2428CF37147DE10C02+++C2C5D3B" : 0
+  },
+  "DVTSourceControlWorkspaceBlueprintIdentifierKey" : "09D918DB-5ADC-448D-B364-61A0B2CF4D23",
+  "DVTSourceControlWorkspaceBlueprintWorkingCopyPathsKey" : {
+    "5E292F168E7E5C466950F2C4F5370D687BD4889C+++ACF8D8C" : "..\/..\/Android_Project\/Nexd_Demo_20150914\/NexdMap",
+    "5E292F168E7E5C466950F2C4F5370D687BD4889C+++E2B0AB8" : "..\/..\/Android_Project\/Nexd_Demo_20150914\/NexdMap",
+    "4B4D6DA05FEE65BB067D679953056E26A89F9564+++0784B13" : "Demo.NexdTechLocationDemo\/",
+    "04EAE67CCE7A572FBB94839CED5CE95F43E39A80+++EB87E35" : "..\/LocationEngineLibrary\/CompiledLocationEngineTest",
+    "AF609D4882F4C06E0BFB896DF19AA639FB2A1A6A+++A766E32" : "..\/..\/Java_Projects\/Voronoi\/src",
+    "6FB02A929DDDA3A04E57E97BC82B522FBEBEE47A+++58E924A" : "..\/..\/Android_Project\/NexdIndoorLocationFramework",
+    "7FB3BE83DB66FD293E223C455E5D815B1E9FBC75+++2935032" : "..\/..\/Android_Project\/NexdMapBase_JNI_Version",
+    "48213FEC8FD556F9E11EAE2428CF37147DE10C02+++C2C5D3B" : "..\/IOS_Demo_LocationTest\/Demo.LocationTest"
+  },
+  "DVTSourceControlWorkspaceBlueprintNameKey" : "Demo.NexdTechLocationDemo",
+  "DVTSourceControlWorkspaceBlueprintVersion" : 204,
+  "DVTSourceControlWorkspaceBlueprintRelativePathToProjectKey" : "Demo.NexdTechLocationDemo.xcodeproj",
+  "DVTSourceControlWorkspaceBlueprintRemoteRepositoriesKey" : [
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ninespring\/CompiledLocationEngine.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "04EAE67CCE7A572FBB94839CED5CE95F43E39A80+++EB87E35"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ninespring\/DemoLocationTest.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "48213FEC8FD556F9E11EAE2428CF37147DE10C02+++C2C5D3B"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/ninespring\/NexdTechLocationDemo.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "4B4D6DA05FEE65BB067D679953056E26A89F9564+++0784B13"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bruce\/NexdMap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E292F168E7E5C466950F2C4F5370D687BD4889C+++ACF8D8C"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bruce\/NexdMap.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "5E292F168E7E5C466950F2C4F5370D687BD4889C+++E2B0AB8"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bruce\/NexdIndoorLocationFramework.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "6FB02A929DDDA3A04E57E97BC82B522FBEBEE47A+++58E924A"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/git.oschina.net\/bruce\/NexdMapBase.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "7FB3BE83DB66FD293E223C455E5D815B1E9FBC75+++2935032"
+    },
+    {
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryURLKey" : "https:\/\/github.com\/miaopasi\/Voronoi.git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositorySystemKey" : "com.apple.dt.Xcode.sourcecontrol.Git",
+      "DVTSourceControlWorkspaceBlueprintRemoteRepositoryIdentifierKey" : "AF609D4882F4C06E0BFB896DF19AA639FB2A1A6A+++A766E32"
+    }
+  ]
+}

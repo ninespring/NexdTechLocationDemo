@@ -8,7 +8,12 @@
 
 /* Begin PBXBuildFile section */
 		841538D01D40A8D20035C027 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 841538CF1D40A8D20035C027 /* ViewController.m */; };
-		841538D81D40B4CB0035C027 /* testMap2.svg in Resources */ = {isa = PBXBuildFile; fileRef = 841538D71D40B4CB0035C027 /* testMap2.svg */; };
+		841538E61D45BF960035C027 /* 101080560001.optparam in Resources */ = {isa = PBXBuildFile; fileRef = 841538DF1D45BF960035C027 /* 101080560001.optparam */; };
+		841538E71D45BF960035C027 /* 101080560001.wifilist in Resources */ = {isa = PBXBuildFile; fileRef = 841538E01D45BF960035C027 /* 101080560001.wifilist */; };
+		841538E81D45BF960035C027 /* 101080560001.wp in Resources */ = {isa = PBXBuildFile; fileRef = 841538E11D45BF960035C027 /* 101080560001.wp */; };
+		841538E91D45BF960035C027 /* testMap.svg in Resources */ = {isa = PBXBuildFile; fileRef = 841538E31D45BF960035C027 /* testMap.svg */; };
+		841538EA1D45BF960035C027 /* backgroundImage_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 841538E41D45BF960035C027 /* backgroundImage_edited.jpg */; };
+		841538EB1D45BF960035C027 /* backgroundImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 841538E51D45BF960035C027 /* backgroundImage.png */; };
 		841B675B1D4084DC00BECADF /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 841B675A1D4084DC00BECADF /* main.m */; };
 		841B675E1D4084DC00BECADF /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 841B675D1D4084DC00BECADF /* AppDelegate.m */; };
 		841B67641D4084DC00BECADF /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 841B67621D4084DC00BECADF /* Main.storyboard */; };
@@ -16,14 +21,8 @@
 		841B67691D4084DC00BECADF /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 841B67671D4084DC00BECADF /* LaunchScreen.storyboard */; };
 		841B67741D4084DC00BECADF /* Demo_NexdTechLocationDemoTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 841B67731D4084DC00BECADF /* Demo_NexdTechLocationDemoTests.m */; };
 		841B677F1D4084DC00BECADF /* Demo_NexdTechLocationDemoUITests.m in Sources */ = {isa = PBXBuildFile; fileRef = 841B677E1D4084DC00BECADF /* Demo_NexdTechLocationDemoUITests.m */; };
-		841B67921D40853000BECADF /* 101001200002.optparam in Resources */ = {isa = PBXBuildFile; fileRef = 841B678F1D40853000BECADF /* 101001200002.optparam */; };
-		841B67931D40853000BECADF /* 101001200002.wifilist in Resources */ = {isa = PBXBuildFile; fileRef = 841B67901D40853000BECADF /* 101001200002.wifilist */; };
-		841B67941D40853000BECADF /* 101001200002.wp in Resources */ = {isa = PBXBuildFile; fileRef = 841B67911D40853000BECADF /* 101001200002.wp */; };
 		841B67991D40856C00BECADF /* LocationEngine.m in Sources */ = {isa = PBXBuildFile; fileRef = 841B67981D40856C00BECADF /* LocationEngine.m */; };
 		84AF3CA11D40A0C800DD34CA /* MapTestViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 84AF3C9F1D40A0C800DD34CA /* MapTestViewController.m */; };
-		84AF3CA51D40A11300DD34CA /* testMap.svg in Resources */ = {isa = PBXBuildFile; fileRef = 84AF3CA21D40A11300DD34CA /* testMap.svg */; };
-		84AF3CA61D40A11300DD34CA /* backgroundImage_edited.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 84AF3CA31D40A11300DD34CA /* backgroundImage_edited.jpg */; };
-		84AF3CA71D40A11300DD34CA /* backgroundImage.png in Resources */ = {isa = PBXBuildFile; fileRef = 84AF3CA41D40A11300DD34CA /* backgroundImage.png */; };
 		84AF3CAB1D40A13800DD34CA /* SVGKit.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84AF3CA91D40A13800DD34CA /* SVGKit.framework */; };
 		84AF3CAC1D40A13800DD34CA /* SVGKit.framework in Embed Frameworks */ = {isa = PBXBuildFile; fileRef = 84AF3CA91D40A13800DD34CA /* SVGKit.framework */; settings = {ATTRIBUTES = (CodeSignOnCopy, RemoveHeadersOnCopy, ); }; };
 		84AF3CAD1D40A13800DD34CA /* CocoaLumberjack.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 84AF3CAA1D40A13800DD34CA /* CocoaLumberjack.framework */; };
@@ -72,7 +71,13 @@
 
 /* Begin PBXFileReference section */
 		841538CF1D40A8D20035C027 /* ViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = ViewController.m; sourceTree = "<group>"; };
-		841538D71D40B4CB0035C027 /* testMap2.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; name = testMap2.svg; path = ../../../IOS_Demo_OpenSource_IndoorMap/testMap2.svg; sourceTree = "<group>"; };
+		841538DF1D45BF960035C027 /* 101080560001.optparam */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 101080560001.optparam; sourceTree = "<group>"; };
+		841538E01D45BF960035C027 /* 101080560001.wifilist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 101080560001.wifilist; sourceTree = "<group>"; };
+		841538E11D45BF960035C027 /* 101080560001.wp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; path = 101080560001.wp; sourceTree = "<group>"; };
+		841538E21D45BF960035C027 /* locate_code_base.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = locate_code_base.h; sourceTree = "<group>"; };
+		841538E31D45BF960035C027 /* testMap.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = testMap.svg; sourceTree = "<group>"; };
+		841538E41D45BF960035C027 /* backgroundImage_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backgroundImage_edited.jpg; sourceTree = "<group>"; };
+		841538E51D45BF960035C027 /* backgroundImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundImage.png; sourceTree = "<group>"; };
 		841B67561D4084DC00BECADF /* Demo.NexdTechLocationDemo.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Demo.NexdTechLocationDemo.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		841B675A1D4084DC00BECADF /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
 		841B675C1D4084DC00BECADF /* AppDelegate.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = AppDelegate.h; sourceTree = "<group>"; };
@@ -88,17 +93,10 @@
 		841B677A1D4084DC00BECADF /* Demo.NexdTechLocationDemoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = Demo.NexdTechLocationDemoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		841B677E1D4084DC00BECADF /* Demo_NexdTechLocationDemoUITests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Demo_NexdTechLocationDemoUITests.m; sourceTree = "<group>"; };
 		841B67801D4084DC00BECADF /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		841B678E1D40853000BECADF /* locate_code_base.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = locate_code_base.h; path = ../../../LocationEngineLibrary/CompiledLocationEngineTest/CompiledLocationEngineTest/locate_code_base.h; sourceTree = "<group>"; };
-		841B678F1D40853000BECADF /* 101001200002.optparam */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 101001200002.optparam; path = ../../../LocationEngineLibrary/CompiledLocationEngineTest/CompiledLocationEngineTest/101001200002.optparam; sourceTree = "<group>"; };
-		841B67901D40853000BECADF /* 101001200002.wifilist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 101001200002.wifilist; path = ../../../LocationEngineLibrary/CompiledLocationEngineTest/CompiledLocationEngineTest/101001200002.wifilist; sourceTree = "<group>"; };
-		841B67911D40853000BECADF /* 101001200002.wp */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text; name = 101001200002.wp; path = ../../../LocationEngineLibrary/CompiledLocationEngineTest/CompiledLocationEngineTest/101001200002.wp; sourceTree = "<group>"; };
 		841B67981D40856C00BECADF /* LocationEngine.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = LocationEngine.m; sourceTree = "<group>"; };
 		841B679A1D40858400BECADF /* LocationEngine.h */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.h; path = LocationEngine.h; sourceTree = "<group>"; };
 		84AF3C9F1D40A0C800DD34CA /* MapTestViewController.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = MapTestViewController.m; sourceTree = "<group>"; };
 		84AF3CA01D40A0C800DD34CA /* MapTestViewController.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = MapTestViewController.h; sourceTree = "<group>"; };
-		84AF3CA21D40A11300DD34CA /* testMap.svg */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.xml; path = testMap.svg; sourceTree = "<group>"; };
-		84AF3CA31D40A11300DD34CA /* backgroundImage_edited.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; path = backgroundImage_edited.jpg; sourceTree = "<group>"; };
-		84AF3CA41D40A11300DD34CA /* backgroundImage.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = backgroundImage.png; sourceTree = "<group>"; };
 		84AF3CA91D40A13800DD34CA /* SVGKit.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = SVGKit.framework; sourceTree = "<group>"; };
 		84AF3CAA1D40A13800DD34CA /* CocoaLumberjack.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; path = CocoaLumberjack.framework; sourceTree = "<group>"; };
 		84AF3CB01D40A14B00DD34CA /* CoreImage.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreImage.framework; path = System/Library/Frameworks/CoreImage.framework; sourceTree = SDKROOT; };
@@ -199,15 +197,14 @@
 		841B67591D4084DC00BECADF /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
-				841538D71D40B4CB0035C027 /* testMap2.svg */,
-				84AF3CA21D40A11300DD34CA /* testMap.svg */,
-				84AF3CA31D40A11300DD34CA /* backgroundImage_edited.jpg */,
-				84AF3CA41D40A11300DD34CA /* backgroundImage.png */,
+				841538DF1D45BF960035C027 /* 101080560001.optparam */,
+				841538E01D45BF960035C027 /* 101080560001.wifilist */,
+				841538E11D45BF960035C027 /* 101080560001.wp */,
+				841538E21D45BF960035C027 /* locate_code_base.h */,
+				841538E31D45BF960035C027 /* testMap.svg */,
+				841538E41D45BF960035C027 /* backgroundImage_edited.jpg */,
+				841538E51D45BF960035C027 /* backgroundImage.png */,
 				84CD5C1E1D40875200E361AD /* libNexdTechLocationEngine.a */,
-				841B678E1D40853000BECADF /* locate_code_base.h */,
-				841B678F1D40853000BECADF /* 101001200002.optparam */,
-				841B67901D40853000BECADF /* 101001200002.wifilist */,
-				841B67911D40853000BECADF /* 101001200002.wp */,
 				841B675A1D4084DC00BECADF /* main.m */,
 			);
 			name = "Supporting Files";
@@ -352,15 +349,14 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				841B67931D40853000BECADF /* 101001200002.wifilist in Resources */,
+				841538E81D45BF960035C027 /* 101080560001.wp in Resources */,
 				841B67691D4084DC00BECADF /* LaunchScreen.storyboard in Resources */,
-				84AF3CA61D40A11300DD34CA /* backgroundImage_edited.jpg in Resources */,
-				84AF3CA71D40A11300DD34CA /* backgroundImage.png in Resources */,
+				841538EA1D45BF960035C027 /* backgroundImage_edited.jpg in Resources */,
+				841538EB1D45BF960035C027 /* backgroundImage.png in Resources */,
+				841538E61D45BF960035C027 /* 101080560001.optparam in Resources */,
+				841538E91D45BF960035C027 /* testMap.svg in Resources */,
+				841538E71D45BF960035C027 /* 101080560001.wifilist in Resources */,
 				841B67661D4084DC00BECADF /* Assets.xcassets in Resources */,
-				84AF3CA51D40A11300DD34CA /* testMap.svg in Resources */,
-				841B67941D40853000BECADF /* 101001200002.wp in Resources */,
-				841B67921D40853000BECADF /* 101001200002.optparam in Resources */,
-				841538D81D40B4CB0035C027 /* testMap2.svg in Resources */,
 				841B67641D4084DC00BECADF /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
